@@ -1,16 +1,6 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="120" height="120">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1a9fff"/>
-      <stop offset="60%" stop-color="#0055e8"/>
-      <stop offset="100%" stop-color="#003db5"/>
-    </linearGradient>
-  </defs>
-  <rect width="200" height="200" rx="48" fill="url(#g)"/>
-  <path d="M30 100 L60 60 L95 140 L125 75 L155 100 L175 100" stroke="white" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<img src="https://i.ibb.co/Kc6NzjmH/1e429b81c7a5.jpg" width="100" height="100" style="border-radius:80%;" alt="QuickAPI Logo"/>
 
 <br/>
 <br/>
@@ -137,7 +127,7 @@ QuickAPI/
 
 <div align="center">
 
-<img src="https://i.ibb.co/rGgHZf89/70319ea7a614.jpg" width="90" style="border-radius:16px;" alt="Md. Mainul Islam"/>
+<img src="https://i.ibb.co/rGgHZf89/70319ea7a614.jpg" width="90" style="border-radius:50px;" alt="Md. Mainul Islam"/>
 
 ### ***Md. Mainul Islam***
 **@M41NUL · MAINUL-X**
