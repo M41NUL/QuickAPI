@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/LdZpZnDK/a297f62dc271.jpg" width="100" height="100" style="border-radius:80%;" alt="QuickAPI Logo"/>
+<img src="https://i.ibb.co/LdZpZnDK/a297f62dc271.jpg" width="100" height="100" style="border-radius:50%;" alt="QuickAPI Logo"/>
 
 <br/>
 <br/>
